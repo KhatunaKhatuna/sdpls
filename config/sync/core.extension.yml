@@ -10,12 +10,17 @@ module:
   comment: 0
   config: 0
   contact: 0
+  context: 0
+  context_ui: 0
   contextual: 0
   datetime: 0
   dblog: 0
   dynamic_page_cache: 0
   editor: 0
+  entity_print: 0
+  entity_print_views: 0
   field: 0
+  field_group: 0
   field_ui: 0
   file: 0
   filter: 0
@@ -36,13 +41,22 @@ module:
   system: 0
   taxonomy: 0
   text: 0
+  token: 0
   toolbar: 0
   tour: 0
   user: 0
   views_ui: 0
+  webform: 0
+  webform_access: 0
+  webform_entity_print: 0
+  webform_node: 0
+  webform_ui: 0
   views: 10
   minimal: 1000
 theme:
   olivero: 0
   claro: 0
+  gin: 0
+  stable: 0
+  sdpls: 0
 profile: minimal
